@@ -1,4 +1,6 @@
-A distributed password manager
+# Passion
+
+Distributed Password Manager built on IPFS. WIP.
 
 # Usage
 
